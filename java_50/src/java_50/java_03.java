@@ -10,7 +10,7 @@ package java_50;
  * 		依次获取三位数的个，十，百，位的数字
  * 		依次三次方相加
  */
-public class java_3 {
+public class java_03 {
 	
 	public static void main(String[] args)
 	{

@@ -9,7 +9,7 @@ package java_50;
  * 		程序分析：
  * 		(a>b)?a:b这是条件运算符的基本例子
  */
-public class java_5 {
+public class java_05 {
 	
 	public static void main(String[] args)
 	{

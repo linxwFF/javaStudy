@@ -9,7 +9,7 @@ package java_50;
  * 		程序分析：
  */
 
-public class java_4 {
+public class java_04 {
 	
 	public static void main(String[] args)
 	{

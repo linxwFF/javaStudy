@@ -10,7 +10,7 @@ import java.util.*;
  *		程序分析：利用while语句,条件为输入的字符不为'\n'.
  */
 
-public class java_7 {
+public class java_07 {
 	
 	public static void main(String[] args)
 	{

@@ -23,7 +23,7 @@ package java_50;
 	F（n）=F(n-1)+F(n-2)（n≥2，n∈N*）
  */
 
-public class java_1 {
+public class java_01 {
 	
 	public static void main(String[] args)
 	{ 
